@@ -1,10 +1,12 @@
 # Deploy
 ## Procfile Python
+```
 worker: python ファイル名.py
-
+```
 ## Procfile Flask
+```
 web: gunicorn app:ファイル名
-
+```
 ## requirements.txt
 ```
 pip freeze > requirements.txt
