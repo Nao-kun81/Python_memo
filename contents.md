@@ -1,3 +1,0 @@
-# Development_Memo
-
-## Flask
