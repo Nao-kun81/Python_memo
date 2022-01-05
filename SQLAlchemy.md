@@ -21,6 +21,12 @@ class User(db.Model):
     return '<User %r>' % self.username
     
 ```
+### 詳細
+Integer = 数字  
+String = 文字列  
+primary_key = 自動生成される数列  
+unique = データベース内の重複  
+null = 空白  
 ## データベース作成
 Pythonの対話モード
 ```
