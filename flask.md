@@ -20,7 +20,7 @@
 {% block contents %}
 {% endblock %}
 ```
-# html継承
+## html継承
 ```
 {% extends 'index.html' %}
 ```
